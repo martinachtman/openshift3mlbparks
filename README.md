@@ -25,3 +25,4 @@ Load the template with cluster-admin user:
 # oc create -f https://raw.githubusercontent.com/gshipley/openshift3mlbparks/master/mlbparks-template.json -n openshift
 ````
 
+####
